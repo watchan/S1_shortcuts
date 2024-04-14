@@ -932,7 +932,7 @@
 <table>
 <tr>
 <td>Autoscroll</td>
-<td>F</td>
+<td></td>
 </tr>
 <tr>
 <td>Clear Chord Track</td>
@@ -989,7 +989,7 @@ Backspace</td>
 </tr>
 <tr>
 <td>Duplicate</td>
-<td>D</td>
+<td></td>
 </tr>
 <tr>
 <td>Duplicate Shared</td>
@@ -1448,7 +1448,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Merge Events</td>
-<td>G</td>
+<td></td>
 </tr>
 <tr>
 <td>Mixdown Selection</td>
@@ -4483,7 +4483,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Solo</td>
-<td>S</td>
+<td></td>
 </tr>
 <tr>
 <td>Solo Layer</td>
@@ -4566,13 +4566,13 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Forward</td>
-<td>NumPad+<br>
-Forward</td>
+<td>Forward<br>
+G</td>
 </tr>
 <tr>
 <td>Forward Bar</td>
-<td>Shift+NumPad+<br>
-Shift+Forward</td>
+<td>Shift+Forward<br>
+F</td>
 </tr>
 <tr>
 <td>Goto Loop End</td>
@@ -4654,13 +4654,13 @@ Record</td>
 </tr>
 <tr>
 <td>Rewind</td>
-<td>NumPad-<br>
-Rewind</td>
+<td>Rewind<br>
+S</td>
 </tr>
 <tr>
 <td>Rewind Bar</td>
-<td>Shift+NumPad-<br>
-Shift+Rewind</td>
+<td>Shift+Rewind<br>
+D</td>
 </tr>
 <tr>
 <td>Set Loop End</td>
