@@ -300,7 +300,7 @@
 </tr>
 <tr>
 <td>Reverse Audio</td>
-<td>Command+R</td>
+<td></td>
 </tr>
 <tr>
 <td>Send To new Impact</td>
@@ -932,7 +932,7 @@
 <table>
 <tr>
 <td>Autoscroll</td>
-<td></td>
+<td>Shift+F</td>
 </tr>
 <tr>
 <td>Clear Chord Track</td>
@@ -981,7 +981,7 @@ Backspace</td>
 </tr>
 <tr>
 <td>Deselect All</td>
-<td>Command+D</td>
+<td></td>
 </tr>
 <tr>
 <td>Deselect All on Tracks</td>
@@ -989,7 +989,7 @@ Backspace</td>
 </tr>
 <tr>
 <td>Duplicate</td>
-<td></td>
+<td>Command+R</td>
 </tr>
 <tr>
 <td>Duplicate Shared</td>
@@ -1186,7 +1186,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Search</td>
-<td>Command+F</td>
+<td></td>
 </tr>
 <tr>
 <td>Select All</td>
@@ -1338,7 +1338,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Split</td>
-<td>Option+X</td>
+<td>Command+T</td>
 </tr>
 <tr>
 <td>Split Loop</td>
@@ -2909,7 +2909,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Down</td>
-<td>Down Arrow</td>
+<td>E</td>
 </tr>
 <tr>
 <td>Down Extend</td>
@@ -3125,7 +3125,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Up</td>
-<td>Up Arrow</td>
+<td>3</td>
 </tr>
 <tr>
 <td>Up Extend</td>
@@ -3562,7 +3562,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Quantize 1/16</td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
 <td>Quantize 1/2</td>
@@ -3582,7 +3582,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Quantize 1/8</td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
 <td>Quintuplet</td>
@@ -3626,7 +3626,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Triplet</td>
-<td></td>
+<td>4</td>
 </tr>
 </table>
 <h2>Record Functions</h2>
@@ -4228,7 +4228,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Tool 1</td>
-<td>1</td>
+<td></td>
 </tr>
 <tr>
 <td>Tool 10</td>
@@ -4236,15 +4236,15 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Tool 2</td>
-<td>2</td>
+<td></td>
 </tr>
 <tr>
 <td>Tool 3</td>
-<td>3</td>
+<td></td>
 </tr>
 <tr>
 <td>Tool 4</td>
-<td>4</td>
+<td></td>
 </tr>
 <tr>
 <td>Tool 5</td>
@@ -4347,7 +4347,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Arm</td>
-<td>R</td>
+<td></td>
 </tr>
 <tr>
 <td>Arm All Audio Tracks</td>
@@ -4435,7 +4435,7 @@ Command+Shift+Z</td>
 </tr>
 <tr>
 <td>Mute</td>
-<td>M</td>
+<td></td>
 </tr>
 <tr>
 <td>Pack Folder</td>
@@ -4580,7 +4580,7 @@ F</td>
 </tr>
 <tr>
 <td>Goto Loop Start</td>
-<td>NumPad1</td>
+<td>Shift+A</td>
 </tr>
 <tr>
 <td>Goto Next Event</td>
@@ -4592,7 +4592,7 @@ F</td>
 </tr>
 <tr>
 <td>Goto Time</td>
-<td>Command+T</td>
+<td></td>
 </tr>
 <tr>
 <td>Locate Mouse Cursor</td>
@@ -4640,8 +4640,8 @@ F</td>
 </tr>
 <tr>
 <td>Record</td>
-<td>NumPad*<br>
-Record</td>
+<td>Record<br>
+R</td>
 </tr>
 <tr>
 <td>Return to Start on Stop</td>
@@ -4809,7 +4809,7 @@ Play Pause</td>
 </tr>
 <tr>
 <td>Fullscreen</td>
-<td>Shift+F</td>
+<td></td>
 </tr>
 <tr>
 <td>Info View</td>
@@ -4817,7 +4817,7 @@ Play Pause</td>
 </tr>
 <tr>
 <td>Inspector</td>
-<td>F4</td>
+<td>!</td>
 </tr>
 <tr>
 <td>Lyrics Display</td>
@@ -5145,9 +5145,9 @@ Option+Backspace</td>
 </tr>
 <tr>
 <td>Zoom In</td>
-<td>E<br>
-Command++<br>
-Command+NumPad+</td>
+<td>Command++<br>
+Command+NumPad+<br>
+Command+F</td>
 </tr>
 <tr>
 <td>Zoom In Fine</td>
@@ -5164,9 +5164,8 @@ Command+Shift+NumPad+</td>
 </tr>
 <tr>
 <td>Zoom Out</td>
-<td>W<br>
-Command+-<br>
-Command+NumPad-</td>
+<td>Command+NumPad-<br>
+Command+D</td>
 </tr>
 <tr>
 <td>Zoom Out Fine</td>
